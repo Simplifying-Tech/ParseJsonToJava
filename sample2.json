@@ -1,0 +1,15 @@
+{
+    "empInfo": {
+            "name": "James Gosling",
+            "position": "founder",
+            "salary": "10000",
+            "age": "65"
+    },
+    "skills": [
+            {
+                "programming": "java",
+                "scripting": "unix",
+                "ml": "python"               
+            }
+    ]
+}
